@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.entmobi.fnu.fnudocker.FnudockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.666 sec - in com.entmobi.fnu.fnudocker.FnudockerApplicationTests
